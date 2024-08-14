@@ -1,14 +1,14 @@
 # Chapa Payment Gateway Plugin for WooCommerce 
 
-**Contributors:** [isrugeek](https://github.com/isrugeek), [kidus363](https://github.com/kidus363)
+**Contributors:** [isrugeek](https://github.com/isrugeek), [kidus363](https://github.com/kidus363) [dawit2123](https://github.com/dawit2123) [nahom-d54](https://github.com/nahom-d54)
 
 **Tags:** woocommerce, payments, chapa, ethiopia, etb, telebirr, wordpress
 
 **Requires at least:** 4.5
 
-**Tested up to:** 6.2.1
+**Tested up to:** 6.6.1
 
-**Stable tag:** 1.0.1
+**Stable tag:** 1.0.2
 
 **License:** GPLv2 or later
 
