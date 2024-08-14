@@ -34,6 +34,7 @@ function waf_wc_chapa_init() {
     add_filter( 'woocommerce_available_payment_gateways', 'conditionally_hide_waf_chapa_payment_gateways' );
 
 }
+// wocommerce added initialize chapa before plugin loads
 add_action( 'before_woocommerce_init', 'waf_wc_chapa_before_init');
 add_action( 'plugins_loaded', 'waf_wc_chapa_init' );
 
